@@ -1,0 +1,8 @@
+Installing pyscreenshot with proxy for pip
+sudo pip install pyscreenshot --proxy https://2016azansari:issc1001@196.1.114.80:2222
+
+sudo apt-get install libcanberra-gtk-module
+
+To get dominant color...
+sudo apt-get install python-tk
+
